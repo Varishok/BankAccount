@@ -1,50 +1,29 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
 
-namespace BankAccount
+namespace Bank
 {
-    class Client
+    public class User : Data
     {
-        //методы с вкладами(открыть, закрыть). Баланс общий.
-
-        private string fullName;
-        private string birthDate;
-        private bool premium;
-        public List<Credit> credits;
-        public List<Deposit> deposits;
-
-        public Client(string name, string date, bool prem)
+        protected string fullName;
+        protected bool isPremum;
+        public DataRow user;
+        public List<DataRow> account = new List<DataRow>();
+        protected Dictionary<string, Account> accounts = new Dictionary<string, Account>();
+        public User(string name, string pass)
         {
-            fullName = name;
-            birthDate = date;
-            premium = prem;
-        }
-
-        public string GetFullName()
-        {
-            return fullName;
-        }
-
-        public string GetBirthDate()
-        {
-            return birthDate;
-        }
-
-        public string GetPremium()
-        {
-            if (premium)
+            if(this.Authorization(name, pass, ref user, ref account))
             {
-                return "Премиальный клиент";
+                Console.WriteLine("You are log in");
             }
             else
             {
-                return "Стандартный клиент";
+                Console.WriteLine("You are not log in");
             }
         }
-
-
     }
 }
