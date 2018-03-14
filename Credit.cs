@@ -1,20 +1,16 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BankAccount
+namespace Bank
 {
     class Credit : Account
     {
-        // график погашения платежей. Добавить -(интерфейс). Статус. погасить.
-
-        
-
-        public string Type
-        {
-            get { return "Credit"; }
-        }
+        protected float debt;
+        protected float nextPay;
+        protected DateTime dateNext;
+        protected DateTime dateEnd;
     }
 }
