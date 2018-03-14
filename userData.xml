@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<user>
+		<fullName>Black Howe</fullName>
+    <password>qwerty</password>
+		<status>true</status>
+		<picture>http://placehold.it/32x32</picture>
+    <countAccounts>1</countAccounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Uni</name>
+			<balance>1992.93</balance>
+			<adding>13.49</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1904.51</withdrawSum>
+		</accounts>
+	</user>
+	<user>
+		<fullName>Frances Hicks</fullName>
+    <password>qwerty</password>
+		<status>true</status>
+		<picture>http://placehold.it/32x32</picture>
+    <countAccounts>3</countAccounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Rockabye</name>
+			<balance>3431.36</balance>
+			<adding>13.51</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1365.33</withdrawSum>
+		</accounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Firewax</name>
+			<balance>3791.24</balance>
+			<adding>10.19</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1107.48</withdrawSum>
+		</accounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Entality</name>
+			<balance>3634.06</balance>
+			<adding>11.05</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1799.7</withdrawSum>
+		</accounts>
+	</user>
+  <user>
+		<fullName>Petty Vance</fullName>
+    <password>qwerty</password>
+		<status>true</status>
+		<picture>http://placehold.it/32x32</picture>
+    <countAccounts>2</countAccounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Gronk</name>
+			<balance>2473.19</balance>
+			<adding>11.1</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1489.25</withdrawSum>
+		</accounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Tingles</name>
+			<balance>2499.25</balance>
+			<adding>10.25</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1308.26</withdrawSum>
+		</accounts>
+	</user>
+  <user>
+		<fullName>Merle Franklin</fullName>
+    <password>qwerty</password>
+		<status>true</status>
+		<picture>http://placehold.it/32x32</picture>
+    <countAccounts>2</countAccounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Hyplex</name>
+			<balance>1957.3</balance>
+			<adding>13.35</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1009.58</withdrawSum>
+		</accounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Eplode</name>
+			<balance>3163.68</balance>
+			<adding>14.09</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1974.89</withdrawSum>
+		</accounts>
+	</user>
+  <user>
+		<fullName>Eloise Ramirez</fullName>
+    <password>qwerty</password>
+		<status>true</status>
+		<picture>http://placehold.it/32x32</picture>
+    <countAccounts>3</countAccounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Jamnation</name>
+			<balance>2698.47</balance>
+			<adding>14.51</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1065.76</withdrawSum>
+		</accounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Zilch</name>
+			<balance>3256.66</balance>
+			<adding>10.55</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1780.36</withdrawSum>
+		</accounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Dentrex</name>
+			<balance>1815.47</balance>
+			<adding>10.87</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1804.22</withdrawSum>
+		</accounts>
+	</user>
+  <user>
+		<fullName>Summers Mathis</fullName>
+    <password>qwerty</password>
+		<status>true</status>
+		<picture>http://placehold.it/32x32</picture>
+    <countAccounts>3</countAccounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Pharmex</name>
+			<balance>3955.86</balance>
+			<adding>11.77</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1168.38</withdrawSum>
+		</accounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Eclipto</name>
+			<balance>2860.13</balance>
+			<adding>14.89</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1968</withdrawSum>
+		</accounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Kidstock</name>
+			<balance>2975.67</balance>
+			<adding>10</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1758.3</withdrawSum>
+		</accounts>
+	</user>
+  <user>
+		<fullName>Angela Britt</fullName>
+    <password>qwerty</password>
+		<status>false</status>
+		<picture>http://placehold.it/32x32</picture>
+    <countAccounts>3</countAccounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Comvex</name>
+			<balance>3202.68</balance>
+			<adding>11.31</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1325.14</withdrawSum>
+		</accounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Globoil</name>
+			<balance>2230.56</balance>
+			<adding>11.5</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1390.1</withdrawSum>
+		</accounts>
+		<accounts>
+			<reg>Sun Mar 04 2018 21:26:20 GMT+0300</reg>
+			<name>Phormula</name>
+			<balance>1229.85</balance>
+			<adding>10.6</adding>
+			<withdrawDate>Sun Mar 04 2018 21:26:20 GMT+0300</withdrawDate>
+			<withdrawSum>1940.56</withdrawSum>
+		</accounts>
+	</user>
+</root>
