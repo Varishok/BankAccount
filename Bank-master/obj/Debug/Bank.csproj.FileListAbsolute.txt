@@ -1,0 +1,6 @@
+D:\Vakh\Bank-master\bin\Debug\packages.config
+D:\Vakh\Bank-master\bin\Debug\Bank.dll
+D:\Vakh\Bank-master\bin\Debug\Bank.pdb
+D:\Vakh\Bank-master\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\Vakh\Bank-master\obj\Debug\Bank.dll
+D:\Vakh\Bank-master\obj\Debug\Bank.pdb
