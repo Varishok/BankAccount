@@ -1,0 +1,17 @@
+E:\Bank\BankWPF\bin\Debug\BankWPF.exe.config
+E:\Bank\BankWPF\bin\Debug\BankWPF.exe
+E:\Bank\BankWPF\bin\Debug\BankWPF.pdb
+E:\Bank\BankWPF\obj\Debug\BankWPF.csprojResolveAssemblyReference.cache
+E:\Bank\BankWPF\obj\Debug\Information.baml
+E:\Bank\BankWPF\obj\Debug\Information.g.cs
+E:\Bank\BankWPF\obj\Debug\App.g.cs
+E:\Bank\BankWPF\obj\Debug\BankWPF_MarkupCompile.cache
+E:\Bank\BankWPF\obj\Debug\BankWPF.g.resources
+E:\Bank\BankWPF\obj\Debug\BankWPF.Properties.Resources.resources
+E:\Bank\BankWPF\obj\Debug\BankWPF.csproj.GenerateResource.Cache
+E:\Bank\BankWPF\obj\Debug\BankWPF.exe
+E:\Bank\BankWPF\obj\Debug\BankWPF.pdb
+E:\Bank\BankWPF\obj\Debug\MainWindow.baml
+E:\Bank\BankWPF\obj\Debug\MainWindow.g.cs
+E:\Bank\BankWPF\obj\Debug\Adding.baml
+E:\Bank\BankWPF\obj\Debug\Adding.g.cs

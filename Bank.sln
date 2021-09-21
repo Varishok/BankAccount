@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank-master\Bank.csproj", "{2CAE58EE-8D81-48BF-87B4-D4EE164F7247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankWPF", "BankWPF\BankWPF.csproj", "{E43748F3-2B96-44CF-BD43-624F0748F9F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CAE58EE-8D81-48BF-87B4-D4EE164F7247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAE58EE-8D81-48BF-87B4-D4EE164F7247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAE58EE-8D81-48BF-87B4-D4EE164F7247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAE58EE-8D81-48BF-87B4-D4EE164F7247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E43748F3-2B96-44CF-BD43-624F0748F9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43748F3-2B96-44CF-BD43-624F0748F9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43748F3-2B96-44CF-BD43-624F0748F9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43748F3-2B96-44CF-BD43-624F0748F9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
